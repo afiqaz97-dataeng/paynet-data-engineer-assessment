@@ -54,5 +54,5 @@ Created:
 ##  About the Candidate
 
 **Name**: Afiq Azizi  
-**Location**: Malaysia  
+**Location**: Petaling Jaya, Malaysia  
 **Role Applied**: Data Engineer  
